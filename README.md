@@ -1,5 +1,6 @@
 # QTulator - Simple calculator built with Qt
-My 1st GUI program using Qt and C++ on 2nd semester of IT studies.
+My 1st GUI program using Qt and C++ on 2nd semester of IT studies.  Simple program that can do basic mathematical operations such as 
+addition, subtraction, multiplication and division.
 
 ## How to open it?
 
