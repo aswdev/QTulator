@@ -5,5 +5,5 @@ addition, subtraction, multiplication and division.
 ## How to open it?
 
 
-1) Download and install (with the newest mingw and msvc2017-64) Qt crator https://www.qt.io/download
+1) Download and install (with the newest mingw and msvc2017-64) Qt creator https://www.qt.io/download
 2) Download and open Qtulator
